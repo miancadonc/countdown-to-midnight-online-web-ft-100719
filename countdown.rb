@@ -6,7 +6,8 @@ def countdown(seconds_left)
     seconds_left -= 1
     #sleep(1)
   end
-  p "HAPPY NEW YEAR!"
+  new_year_message = "HAPPY NEW YEAR!"
+  puts new_year_message
 end
 
 def countdown_with_sleep(seconds_left)
