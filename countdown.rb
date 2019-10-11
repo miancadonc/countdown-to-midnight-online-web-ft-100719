@@ -7,7 +7,7 @@ def countdown(seconds_left)
     #sleep(1)
   end
   new_year_message = "HAPPY NEW YEAR!"
-  puts new_year_message
+  puts "HAPPY NEW YEAR"
   new_year_message
 end
 
